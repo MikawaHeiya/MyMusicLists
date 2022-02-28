@@ -1,0 +1,1 @@
+<ripple android:color="@color/button_material_dark" tools:targetApi="lollipop" xmlns:tools="http://schemas.android.com/tools" xmlns:android="http://schemas.android.com/apk/res/android"><item android:drawable="@color/colorPrimaryDark" /></ripple>

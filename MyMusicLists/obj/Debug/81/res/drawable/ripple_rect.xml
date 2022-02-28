@@ -1,0 +1,1 @@
+<ripple android:color="@color/colorPrimary" tools:targetApi="lollipop" xmlns:tools="http://schemas.android.com/tools" xmlns:android="http://schemas.android.com/apk/res/android"><item android:drawable="@color/colorLayoutBackground" /></ripple>

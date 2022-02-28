@@ -1,0 +1,1 @@
+<resources><string-array name="UpdateFrequency"><item>不进行更新</item><item>手动更新</item><item>启动时更新</item><item>打开歌单页面时更新</item></string-array></resources>
